@@ -1,5 +1,5 @@
 <?php
-  $dbhost = "localhost";
+  $dbhost = "localhost: 3306";
 	$dbuser = "root";
 	$dbpass = "";
 	$db = "corememories";
