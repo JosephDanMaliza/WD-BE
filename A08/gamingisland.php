@@ -1,5 +1,5 @@
 <?php
-include('A08/connect.php');
+include('connect.php');
 
 $islandType = 'Gaming Island';
 
