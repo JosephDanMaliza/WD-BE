@@ -1,18 +1,21 @@
 <?php
-  $dbhost = "localhost: 3306";
-	$dbuser = "root";
-	$dbpass = "";
-	$db = "corememories";
 
-	$conn = new mysqli($dbhost, $dbuser, $dbpass, $db) or die("Connect failed: %s\n". $conn -> error);
+$dbhost = "localhost:3307";
+$dbuser = "root";
+$dbpass = "";
+$db = "corememories";
 
-	if(!$conn)
-	{
-		die("Connection Failed. ". mysqli_connect_error());
-	}
+// Create connection
+$conn = new mysqli($dbhost, $dbuser, $dbpass, $db);
 
-  function executeQuery($query){
+// Check connection
+if ($conn->connect_error) {
+    die("Connection Failed: " . $conn->connect_error);
+}
+
+// Function to execute queries
+function executeQuery($query){
     $conn = $GLOBALS['conn'];
     return mysqli_query($conn, $query);
-  }
+}
 ?>
