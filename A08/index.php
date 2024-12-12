@@ -1,5 +1,5 @@
 <?php 
-include('connect.php');
+include('A08/connect.php');
 
 $query = "SELECT * FROM islandsofpersonality LIMIT 4";
 $result = executeQuery($query);
