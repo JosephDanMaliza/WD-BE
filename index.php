@@ -52,7 +52,7 @@ include('A08/connect.php');
             <p>Get to know me more by exploring this portfolio of mine. You can also explore my projects and work. Feel free to get in touch!</p>
                 <a href="projects.php" class="button">View Projects</a>
 
-          </div>
+          </div>+
         </div>
       </div>
     </div>

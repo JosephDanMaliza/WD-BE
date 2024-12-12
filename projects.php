@@ -45,7 +45,7 @@
         
         <div class="col">
           <div class="card bg-dark text-white">
-            <img src="portfolioImgs/redmi.jpg" class="card-img" alt="Redmi Note 10 5G">
+            <img src="portfolioImgs/redmi.jpg" class="card-img" alt="Inside Joseph's Mind">
             <div class="card-img-overlay d-flex align-items-center justify-content-center">
             <a href="A08/index.php"><button>Project#1: Inside Joseph's Mind</button></a>
             </div>
