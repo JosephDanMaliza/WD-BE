@@ -8,7 +8,7 @@
 
 		if(!$conn)
 		{
-			die("Connection Failed. ". mysqli_connect_error());
+				die("Connection Failed. ". mysqli_connect_error());
 		}
 
   function executeQuery($query){
