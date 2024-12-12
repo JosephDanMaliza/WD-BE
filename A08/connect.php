@@ -1,5 +1,6 @@
 <?php
-$dbhost = "localhost:3306";  // Use correct port
+
+$dbhost = "localhost:3307";
 $dbuser = "root";
 $dbpass = "";
 $db = "corememories";
