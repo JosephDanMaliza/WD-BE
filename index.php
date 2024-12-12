@@ -1,3 +1,7 @@
+<?php
+include('A08/connect.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
