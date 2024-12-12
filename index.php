@@ -1,5 +1,6 @@
 <?php
 include('A08/connect.php');
+
 ?>
 
 <!DOCTYPE html>
@@ -26,10 +27,10 @@ include('A08/connect.php');
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="projects.html">Projects</a>
+            <a class="nav-link" href="projects.php">Projects</a>
           </li>
 
 
