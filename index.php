@@ -50,7 +50,7 @@ include('A08/connect.php');
           <div class="card bg-light shadow p-4">
             <h1 class="mb-4">Welcome to Joseph's Portfolio!</h1>
             <p>Get to know me more by exploring this portfolio of mine. You can also explore my projects and work. Feel free to get in touch!</p>
-                <a href="projects.html" class="button">View Projects</a>
+                <a href="projects.php" class="button">View Projects</a>
 
           </div>
         </div>
