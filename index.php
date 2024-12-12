@@ -43,7 +43,7 @@ include('A08/connect.php');
     <div class="container text-center text-md-start">
       <div class="row align-items-center">
         <div class="image col-md-6">
-          <img src="imgs/moreImgs/mainpic.jpg" alt="Main Picture" class="img-fluid rounded-circle shadow">
+          <img src="assets/moreImgs/mainpic.jpg" alt="Main Picture" class="img-fluid rounded-circle shadow">
         </div>
         <div class="col-md-6">
           <div class="card bg-light shadow p-4">
