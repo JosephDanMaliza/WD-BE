@@ -1,5 +1,5 @@
 <?php
-include('connect.php');
+include('A08/connect.php');
 
 $islandType = 'Love Island';
 
