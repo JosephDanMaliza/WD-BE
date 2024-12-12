@@ -42,6 +42,8 @@ if ($result) {
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="imgs/moreImgs/rowletticn.png">
+
     <style>
         body, h1 {font-family: 'Pacifico', cursive;}
         h1 {letter-spacing: 6px;}
